@@ -1,0 +1,165 @@
+{
+  "bundles": {
+    "lightning/iconSvgTemplatesUtilityRtl": {
+      "version": "1.22.2-alpha",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesUtilityRtl/v/1_22_2-alpha/s/d6b844477c3de7f5d9409e33afc5fa71efe07281/bundle_lightning_iconSvgTemplatesUtilityRtl.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/6_5_0"
+      ],
+      "dynamicImports": []
+    },
+    "lightning/iconSvgTemplatesActionRtl": {
+      "version": "1.22.2-alpha",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesActionRtl/v/1_22_2-alpha/s/b3b517756a9e704e952f504bc58cddb04a7a72f2/bundle_lightning_iconSvgTemplatesActionRtl.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/6_5_0"
+      ],
+      "dynamicImports": []
+    },
+    "lightning/iconSvgTemplatesStandardRtl": {
+      "version": "1.22.2-alpha",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesStandardRtl/v/1_22_2-alpha/s/2cf3bae946c7add16452212faead7bf21deaab95/bundle_lightning_iconSvgTemplatesStandardRtl.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/6_5_0"
+      ],
+      "dynamicImports": []
+    },
+    "lightning/iconSvgTemplatesDoctypeRtl": {
+      "version": "1.22.2-alpha",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesDoctypeRtl/v/1_22_2-alpha/s/3a8a8f072bbaa04d9bc134f102829a8079cced00/bundle_lightning_iconSvgTemplatesDoctypeRtl.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/6_5_0"
+      ],
+      "dynamicImports": []
+    },
+    "lightning/iconSvgTemplatesCustomRtl": {
+      "version": "1.22.2-alpha",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesCustomRtl/v/1_22_2-alpha/s/28890be5325dea6374af087212b21add62b0ff6f/bundle_lightning_iconSvgTemplatesCustomRtl.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/6_5_0"
+      ],
+      "dynamicImports": []
+    },
+    "lightning/iconSvgTemplatesUtility": {
+      "version": "1.22.2-alpha",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesUtility/v/1_22_2-alpha/s/e1268c9602f2dbc18e152e3a0dccd2f9f5e0bcce/bundle_lightning_iconSvgTemplatesUtility.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/6_5_0"
+      ],
+      "dynamicImports": []
+    },
+    "lightning/iconSvgTemplatesAction": {
+      "version": "1.22.2-alpha",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesAction/v/1_22_2-alpha/s/5633d3ae769708170aafaed8759f62a6db9185bc/bundle_lightning_iconSvgTemplatesAction.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/6_5_0"
+      ],
+      "dynamicImports": []
+    },
+    "lightning/iconSvgTemplatesStandard": {
+      "version": "1.22.2-alpha",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesStandard/v/1_22_2-alpha/s/be380ac1903a0838917ca5008cdd05adedc66d1f/bundle_lightning_iconSvgTemplatesStandard.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/6_5_0"
+      ],
+      "dynamicImports": []
+    },
+    "lightning/iconSvgTemplatesDoctype": {
+      "version": "1.22.2-alpha",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesDoctype/v/1_22_2-alpha/s/f06d694efa73b24c5ba7b39f4c289c7b9b89c54d/bundle_lightning_iconSvgTemplatesDoctype.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/6_5_0"
+      ],
+      "dynamicImports": []
+    },
+    "lightning/iconSvgTemplatesCustom": {
+      "version": "1.22.2-alpha",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesCustom/v/1_22_2-alpha/s/8bf1a57afd502c201bcaad80b72caa80acce6e3a/bundle_lightning_iconSvgTemplatesCustom.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/6_5_0"
+      ],
+      "dynamicImports": []
+    },
+    "lwc": {
+      "version": "6.5.0",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwc/v/6_5_0/s/69029b0d57be26dc66576684350f0bf0b6d67c43/bundle_lwc.js",
+      "includedModules": [],
+      "imports": [],
+      "dynamicImports": []
+    },
+    "example/app": {
+      "version": "0.0.1",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/dd383aac1bf033a73f9b39c78fdd228e1ee745bc/bundle_example_app.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/6_5_0",
+        "lwr/esmLoader/v/0_12_2"
+      ],
+      "dynamicImports": [
+        "lightning/iconSvgTemplatesUtilityRtl/v/1_14_7-alpha",
+        "lightning/iconSvgTemplatesActionRtl/v/1_14_7-alpha",
+        "lightning/iconSvgTemplatesStandardRtl/v/1_14_7-alpha",
+        "lightning/iconSvgTemplatesDoctypeRtl/v/1_14_7-alpha",
+        "lightning/iconSvgTemplatesCustomRtl/v/1_14_7-alpha",
+        "lightning/iconSvgTemplatesUtility/v/1_14_7-alpha",
+        "lightning/iconSvgTemplatesAction/v/1_14_7-alpha",
+        "lightning/iconSvgTemplatesStandard/v/1_14_7-alpha",
+        "lightning/iconSvgTemplatesDoctype/v/1_14_7-alpha",
+        "lightning/iconSvgTemplatesCustom/v/1_14_7-alpha",
+        "lightning/iconSvgTemplatesUtilityRtl/v/1_22_2-alpha",
+        "lightning/iconSvgTemplatesActionRtl/v/1_22_2-alpha",
+        "lightning/iconSvgTemplatesStandardRtl/v/1_22_2-alpha",
+        "lightning/iconSvgTemplatesDoctypeRtl/v/1_22_2-alpha",
+        "lightning/iconSvgTemplatesCustomRtl/v/1_22_2-alpha",
+        "lightning/iconSvgTemplatesUtility/v/1_22_2-alpha",
+        "lightning/iconSvgTemplatesAction/v/1_22_2-alpha",
+        "lightning/iconSvgTemplatesStandard/v/1_22_2-alpha",
+        "lightning/iconSvgTemplatesDoctype/v/1_22_2-alpha",
+        "lightning/iconSvgTemplatesCustom/v/1_22_2-alpha"
+      ]
+    },
+    "lwr/esmLoader": {
+      "version": "0.12.2",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/esmLoader/v/0_12_2/s/c4127979a12658d94ecc484b9b53f2e616686de0/bundle_lwr_esmLoader.js",
+      "includedModules": [],
+      "imports": [],
+      "dynamicImports": []
+    },
+    "@lwrjs/app-service/example/module/esm": {
+      "version": "0.12.2",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwrjs/app-service/example/module/esm/v/0_12_2/s/38dd8962bba465de945c8f866de66d9d3025fd89/bundle_@lwrjs_app-service_example_module_esm.js",
+      "includedModules": [],
+      "imports": [
+        "lwr/esmLoader/v/0_12_2",
+        "@lwc/synthetic-shadow/v/6_5_0",
+        "lwr/profiler/v/0_12_2",
+        "lwc/v/6_5_0"
+      ],
+      "dynamicImports": []
+    },
+    "@lwc/synthetic-shadow": {
+      "version": "6.5.0",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwc/synthetic-shadow/v/6_5_0/s/d59b36b50e64a2b97fc0e24c32e4acc02783a760/bundle_@lwc_synthetic-shadow.js",
+      "includedModules": [],
+      "imports": [],
+      "dynamicImports": []
+    },
+    "lwr/profiler": {
+      "version": "0.12.2",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/profiler/v/0_12_2/s/9e9007c2a6c84f8ab8b9e501f71ecdca59632952/bundle_lwr_profiler.js",
+      "includedModules": [],
+      "imports": [],
+      "dynamicImports": []
+    }
+  }
+}

@@ -1,0 +1,338 @@
+{
+ "rewrites": [
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesUtilityRtl/v/1_14_7-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesUtilityRtl/v/1_14_7-alpha/s/38224e0cb75d219c37a7702b8687a9c77d4341c6/bundle_lightning_iconSvgTemplatesUtilityRtl.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning%2FiconSvgTemplatesUtilityRtl%2Fv%2F1_14_7-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesUtilityRtl/v/1_14_7-alpha/s/38224e0cb75d219c37a7702b8687a9c77d4341c6/bundle_lightning_iconSvgTemplatesUtilityRtl.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesUtilityRtl",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesUtilityRtl/v/1_22_2-alpha/s/d6b844477c3de7f5d9409e33afc5fa71efe07281/bundle_lightning_iconSvgTemplatesUtilityRtl.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning%2FiconSvgTemplatesUtilityRtl",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesUtilityRtl/v/1_22_2-alpha/s/d6b844477c3de7f5d9409e33afc5fa71efe07281/bundle_lightning_iconSvgTemplatesUtilityRtl.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesActionRtl/v/1_14_7-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesActionRtl/v/1_14_7-alpha/s/15747d81bcb9255878469a4a15c419e7d7cb2bd0/bundle_lightning_iconSvgTemplatesActionRtl.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning%2FiconSvgTemplatesActionRtl%2Fv%2F1_14_7-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesActionRtl/v/1_14_7-alpha/s/15747d81bcb9255878469a4a15c419e7d7cb2bd0/bundle_lightning_iconSvgTemplatesActionRtl.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesActionRtl",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesActionRtl/v/1_22_2-alpha/s/b3b517756a9e704e952f504bc58cddb04a7a72f2/bundle_lightning_iconSvgTemplatesActionRtl.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning%2FiconSvgTemplatesActionRtl",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesActionRtl/v/1_22_2-alpha/s/b3b517756a9e704e952f504bc58cddb04a7a72f2/bundle_lightning_iconSvgTemplatesActionRtl.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesStandardRtl/v/1_14_7-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesStandardRtl/v/1_14_7-alpha/s/cc56998a17c9a3860394985aa7d9c24babbba2f2/bundle_lightning_iconSvgTemplatesStandardRtl.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning%2FiconSvgTemplatesStandardRtl%2Fv%2F1_14_7-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesStandardRtl/v/1_14_7-alpha/s/cc56998a17c9a3860394985aa7d9c24babbba2f2/bundle_lightning_iconSvgTemplatesStandardRtl.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesStandardRtl",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesStandardRtl/v/1_22_2-alpha/s/2cf3bae946c7add16452212faead7bf21deaab95/bundle_lightning_iconSvgTemplatesStandardRtl.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning%2FiconSvgTemplatesStandardRtl",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesStandardRtl/v/1_22_2-alpha/s/2cf3bae946c7add16452212faead7bf21deaab95/bundle_lightning_iconSvgTemplatesStandardRtl.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesDoctypeRtl/v/1_14_7-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesDoctypeRtl/v/1_14_7-alpha/s/baf35da87fb215aac4a8a18dd6c018d5c10ae825/bundle_lightning_iconSvgTemplatesDoctypeRtl.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning%2FiconSvgTemplatesDoctypeRtl%2Fv%2F1_14_7-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesDoctypeRtl/v/1_14_7-alpha/s/baf35da87fb215aac4a8a18dd6c018d5c10ae825/bundle_lightning_iconSvgTemplatesDoctypeRtl.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesDoctypeRtl",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesDoctypeRtl/v/1_22_2-alpha/s/3a8a8f072bbaa04d9bc134f102829a8079cced00/bundle_lightning_iconSvgTemplatesDoctypeRtl.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning%2FiconSvgTemplatesDoctypeRtl",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesDoctypeRtl/v/1_22_2-alpha/s/3a8a8f072bbaa04d9bc134f102829a8079cced00/bundle_lightning_iconSvgTemplatesDoctypeRtl.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesCustomRtl/v/1_14_7-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesCustomRtl/v/1_14_7-alpha/s/85863822fac0291ff80dbcc0a0f20a6bdadea637/bundle_lightning_iconSvgTemplatesCustomRtl.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning%2FiconSvgTemplatesCustomRtl%2Fv%2F1_14_7-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesCustomRtl/v/1_14_7-alpha/s/85863822fac0291ff80dbcc0a0f20a6bdadea637/bundle_lightning_iconSvgTemplatesCustomRtl.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesCustomRtl",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesCustomRtl/v/1_22_2-alpha/s/28890be5325dea6374af087212b21add62b0ff6f/bundle_lightning_iconSvgTemplatesCustomRtl.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning%2FiconSvgTemplatesCustomRtl",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesCustomRtl/v/1_22_2-alpha/s/28890be5325dea6374af087212b21add62b0ff6f/bundle_lightning_iconSvgTemplatesCustomRtl.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesUtility/v/1_14_7-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesUtility/v/1_14_7-alpha/s/7625f51ca7cbf7755a1165445d4cd92a8a3de6ec/bundle_lightning_iconSvgTemplatesUtility.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning%2FiconSvgTemplatesUtility%2Fv%2F1_14_7-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesUtility/v/1_14_7-alpha/s/7625f51ca7cbf7755a1165445d4cd92a8a3de6ec/bundle_lightning_iconSvgTemplatesUtility.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesUtility",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesUtility/v/1_22_2-alpha/s/e1268c9602f2dbc18e152e3a0dccd2f9f5e0bcce/bundle_lightning_iconSvgTemplatesUtility.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning%2FiconSvgTemplatesUtility",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesUtility/v/1_22_2-alpha/s/e1268c9602f2dbc18e152e3a0dccd2f9f5e0bcce/bundle_lightning_iconSvgTemplatesUtility.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesAction/v/1_14_7-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesAction/v/1_14_7-alpha/s/810e4488969f4fe3abd73efc553eddfe6c3dd9aa/bundle_lightning_iconSvgTemplatesAction.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning%2FiconSvgTemplatesAction%2Fv%2F1_14_7-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesAction/v/1_14_7-alpha/s/810e4488969f4fe3abd73efc553eddfe6c3dd9aa/bundle_lightning_iconSvgTemplatesAction.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesAction",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesAction/v/1_22_2-alpha/s/5633d3ae769708170aafaed8759f62a6db9185bc/bundle_lightning_iconSvgTemplatesAction.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning%2FiconSvgTemplatesAction",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesAction/v/1_22_2-alpha/s/5633d3ae769708170aafaed8759f62a6db9185bc/bundle_lightning_iconSvgTemplatesAction.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesStandard/v/1_14_7-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesStandard/v/1_14_7-alpha/s/f02a5589466625673b94152480c190d69736ef44/bundle_lightning_iconSvgTemplatesStandard.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning%2FiconSvgTemplatesStandard%2Fv%2F1_14_7-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesStandard/v/1_14_7-alpha/s/f02a5589466625673b94152480c190d69736ef44/bundle_lightning_iconSvgTemplatesStandard.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesStandard",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesStandard/v/1_22_2-alpha/s/be380ac1903a0838917ca5008cdd05adedc66d1f/bundle_lightning_iconSvgTemplatesStandard.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning%2FiconSvgTemplatesStandard",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesStandard/v/1_22_2-alpha/s/be380ac1903a0838917ca5008cdd05adedc66d1f/bundle_lightning_iconSvgTemplatesStandard.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesDoctype/v/1_14_7-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesDoctype/v/1_14_7-alpha/s/558a4a4cfad3a16acf33eec541c76c882c77cd4d/bundle_lightning_iconSvgTemplatesDoctype.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning%2FiconSvgTemplatesDoctype%2Fv%2F1_14_7-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesDoctype/v/1_14_7-alpha/s/558a4a4cfad3a16acf33eec541c76c882c77cd4d/bundle_lightning_iconSvgTemplatesDoctype.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesDoctype",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesDoctype/v/1_22_2-alpha/s/f06d694efa73b24c5ba7b39f4c289c7b9b89c54d/bundle_lightning_iconSvgTemplatesDoctype.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning%2FiconSvgTemplatesDoctype",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesDoctype/v/1_22_2-alpha/s/f06d694efa73b24c5ba7b39f4c289c7b9b89c54d/bundle_lightning_iconSvgTemplatesDoctype.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesCustom/v/1_14_7-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesCustom/v/1_14_7-alpha/s/13c9df96ecafd691f2da87e0edbe9bb094706190/bundle_lightning_iconSvgTemplatesCustom.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning%2FiconSvgTemplatesCustom%2Fv%2F1_14_7-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesCustom/v/1_14_7-alpha/s/13c9df96ecafd691f2da87e0edbe9bb094706190/bundle_lightning_iconSvgTemplatesCustom.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesCustom",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesCustom/v/1_22_2-alpha/s/8bf1a57afd502c201bcaad80b72caa80acce6e3a/bundle_lightning_iconSvgTemplatesCustom.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning%2FiconSvgTemplatesCustom",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesCustom/v/1_22_2-alpha/s/8bf1a57afd502c201bcaad80b72caa80acce6e3a/bundle_lightning_iconSvgTemplatesCustom.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesUtilityRtl/v/1_22_2-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesUtilityRtl/v/1_22_2-alpha/s/d6b844477c3de7f5d9409e33afc5fa71efe07281/bundle_lightning_iconSvgTemplatesUtilityRtl.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning%2FiconSvgTemplatesUtilityRtl%2Fv%2F1_22_2-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesUtilityRtl/v/1_22_2-alpha/s/d6b844477c3de7f5d9409e33afc5fa71efe07281/bundle_lightning_iconSvgTemplatesUtilityRtl.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesActionRtl/v/1_22_2-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesActionRtl/v/1_22_2-alpha/s/b3b517756a9e704e952f504bc58cddb04a7a72f2/bundle_lightning_iconSvgTemplatesActionRtl.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning%2FiconSvgTemplatesActionRtl%2Fv%2F1_22_2-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesActionRtl/v/1_22_2-alpha/s/b3b517756a9e704e952f504bc58cddb04a7a72f2/bundle_lightning_iconSvgTemplatesActionRtl.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesStandardRtl/v/1_22_2-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesStandardRtl/v/1_22_2-alpha/s/2cf3bae946c7add16452212faead7bf21deaab95/bundle_lightning_iconSvgTemplatesStandardRtl.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning%2FiconSvgTemplatesStandardRtl%2Fv%2F1_22_2-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesStandardRtl/v/1_22_2-alpha/s/2cf3bae946c7add16452212faead7bf21deaab95/bundle_lightning_iconSvgTemplatesStandardRtl.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesDoctypeRtl/v/1_22_2-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesDoctypeRtl/v/1_22_2-alpha/s/3a8a8f072bbaa04d9bc134f102829a8079cced00/bundle_lightning_iconSvgTemplatesDoctypeRtl.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning%2FiconSvgTemplatesDoctypeRtl%2Fv%2F1_22_2-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesDoctypeRtl/v/1_22_2-alpha/s/3a8a8f072bbaa04d9bc134f102829a8079cced00/bundle_lightning_iconSvgTemplatesDoctypeRtl.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesCustomRtl/v/1_22_2-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesCustomRtl/v/1_22_2-alpha/s/28890be5325dea6374af087212b21add62b0ff6f/bundle_lightning_iconSvgTemplatesCustomRtl.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning%2FiconSvgTemplatesCustomRtl%2Fv%2F1_22_2-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesCustomRtl/v/1_22_2-alpha/s/28890be5325dea6374af087212b21add62b0ff6f/bundle_lightning_iconSvgTemplatesCustomRtl.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesUtility/v/1_22_2-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesUtility/v/1_22_2-alpha/s/e1268c9602f2dbc18e152e3a0dccd2f9f5e0bcce/bundle_lightning_iconSvgTemplatesUtility.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning%2FiconSvgTemplatesUtility%2Fv%2F1_22_2-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesUtility/v/1_22_2-alpha/s/e1268c9602f2dbc18e152e3a0dccd2f9f5e0bcce/bundle_lightning_iconSvgTemplatesUtility.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesAction/v/1_22_2-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesAction/v/1_22_2-alpha/s/5633d3ae769708170aafaed8759f62a6db9185bc/bundle_lightning_iconSvgTemplatesAction.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning%2FiconSvgTemplatesAction%2Fv%2F1_22_2-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesAction/v/1_22_2-alpha/s/5633d3ae769708170aafaed8759f62a6db9185bc/bundle_lightning_iconSvgTemplatesAction.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesStandard/v/1_22_2-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesStandard/v/1_22_2-alpha/s/be380ac1903a0838917ca5008cdd05adedc66d1f/bundle_lightning_iconSvgTemplatesStandard.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning%2FiconSvgTemplatesStandard%2Fv%2F1_22_2-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesStandard/v/1_22_2-alpha/s/be380ac1903a0838917ca5008cdd05adedc66d1f/bundle_lightning_iconSvgTemplatesStandard.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesDoctype/v/1_22_2-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesDoctype/v/1_22_2-alpha/s/f06d694efa73b24c5ba7b39f4c289c7b9b89c54d/bundle_lightning_iconSvgTemplatesDoctype.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning%2FiconSvgTemplatesDoctype%2Fv%2F1_22_2-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesDoctype/v/1_22_2-alpha/s/f06d694efa73b24c5ba7b39f4c289c7b9b89c54d/bundle_lightning_iconSvgTemplatesDoctype.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesCustom/v/1_22_2-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesCustom/v/1_22_2-alpha/s/8bf1a57afd502c201bcaad80b72caa80acce6e3a/bundle_lightning_iconSvgTemplatesCustom.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning%2FiconSvgTemplatesCustom%2Fv%2F1_22_2-alpha",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesCustom/v/1_22_2-alpha/s/8bf1a57afd502c201bcaad80b72caa80acce6e3a/bundle_lightning_iconSvgTemplatesCustom.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwc/v/6_5_0",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwc/v/6_5_0/s/69029b0d57be26dc66576684350f0bf0b6d67c43/bundle_lwc.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwc%2Fv%2F6_5_0",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwc/v/6_5_0/s/69029b0d57be26dc66576684350f0bf0b6d67c43/bundle_lwc.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwc",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwc/v/6_5_0/s/69029b0d57be26dc66576684350f0bf0b6d67c43/bundle_lwc.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/example/app/v/0_0_1",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/dd383aac1bf033a73f9b39c78fdd228e1ee745bc/bundle_example_app.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/example%2Fapp%2Fv%2F0_0_1",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/dd383aac1bf033a73f9b39c78fdd228e1ee745bc/bundle_example_app.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/example/app",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/dd383aac1bf033a73f9b39c78fdd228e1ee745bc/bundle_example_app.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/example%2Fapp",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/dd383aac1bf033a73f9b39c78fdd228e1ee745bc/bundle_example_app.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/esmLoader/v/0_12_2",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/esmLoader/v/0_12_2/s/c4127979a12658d94ecc484b9b53f2e616686de0/bundle_lwr_esmLoader.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr%2FesmLoader%2Fv%2F0_12_2",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/esmLoader/v/0_12_2/s/c4127979a12658d94ecc484b9b53f2e616686de0/bundle_lwr_esmLoader.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/esmLoader",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/esmLoader/v/0_12_2/s/c4127979a12658d94ecc484b9b53f2e616686de0/bundle_lwr_esmLoader.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr%2FesmLoader",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/esmLoader/v/0_12_2/s/c4127979a12658d94ecc484b9b53f2e616686de0/bundle_lwr_esmLoader.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwrjs/app-service/example/module/esm/v/0_12_2",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwrjs/app-service/example/module/esm/v/0_12_2/s/38dd8962bba465de945c8f866de66d9d3025fd89/bundle_@lwrjs_app-service_example_module_esm.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/%40lwrjs%2Fapp-service%2Fexample%2Fmodule%2Fesm%2Fv%2F0_12_2",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwrjs/app-service/example/module/esm/v/0_12_2/s/38dd8962bba465de945c8f866de66d9d3025fd89/bundle_@lwrjs_app-service_example_module_esm.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwrjs/app-service/example/module/esm",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwrjs/app-service/example/module/esm/v/0_12_2/s/38dd8962bba465de945c8f866de66d9d3025fd89/bundle_@lwrjs_app-service_example_module_esm.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/%40lwrjs%2Fapp-service%2Fexample%2Fmodule%2Fesm",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwrjs/app-service/example/module/esm/v/0_12_2/s/38dd8962bba465de945c8f866de66d9d3025fd89/bundle_@lwrjs_app-service_example_module_esm.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwc/synthetic-shadow/v/6_5_0",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwc/synthetic-shadow/v/6_5_0/s/d59b36b50e64a2b97fc0e24c32e4acc02783a760/bundle_@lwc_synthetic-shadow.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/%40lwc%2Fsynthetic-shadow%2Fv%2F6_5_0",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwc/synthetic-shadow/v/6_5_0/s/d59b36b50e64a2b97fc0e24c32e4acc02783a760/bundle_@lwc_synthetic-shadow.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwc/synthetic-shadow",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwc/synthetic-shadow/v/6_5_0/s/d59b36b50e64a2b97fc0e24c32e4acc02783a760/bundle_@lwc_synthetic-shadow.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/%40lwc%2Fsynthetic-shadow",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwc/synthetic-shadow/v/6_5_0/s/d59b36b50e64a2b97fc0e24c32e4acc02783a760/bundle_@lwc_synthetic-shadow.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/profiler/v/0_12_2",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/profiler/v/0_12_2/s/9e9007c2a6c84f8ab8b9e501f71ecdca59632952/bundle_lwr_profiler.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr%2Fprofiler%2Fv%2F0_12_2",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/profiler/v/0_12_2/s/9e9007c2a6c84f8ab8b9e501f71ecdca59632952/bundle_lwr_profiler.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/profiler",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/profiler/v/0_12_2/s/9e9007c2a6c84f8ab8b9e501f71ecdca59632952/bundle_lwr_profiler.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr%2Fprofiler",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/profiler/v/0_12_2/s/9e9007c2a6c84f8ab8b9e501f71ecdca59632952/bundle_lwr_profiler.js"
+  }
+ ],
+ "directoryListing": false,
+ "renderSingle": true
+}
